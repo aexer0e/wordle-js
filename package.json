@@ -1,0 +1,15 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "worlde in js",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./main.js"
+  },
+  "author": "assassin",
+  "license": "ISC",
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "chalk": "^5.0.0"
+  }
+}
